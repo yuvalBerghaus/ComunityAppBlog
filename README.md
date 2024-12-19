@@ -54,3 +54,4 @@ Open [http://localhost:3000](http://localhost:3000).
 <a href="https://vercel.com/import/git?c=1&s=https://github.com/cosmicjs/simple-nextjs-blog&env=COSMIC_BUCKET_SLUG,COSMIC_READ_KEY" rel="noopener noreferrer" target="_blank"><img src="https://cdn.cosmicjs.com/d3f0d5e0-c064-11ea-9a05-6f8a16b0b14c-deploy-to-vercel.svg" style="width: 100px;" class="fr-fic fr-dib fr-fil"></a>
 </p>
 # ComunityAppBlog
+# ComunityAppBlog
